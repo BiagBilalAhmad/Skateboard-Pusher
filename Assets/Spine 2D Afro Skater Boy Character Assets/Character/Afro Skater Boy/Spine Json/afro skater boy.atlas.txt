@@ -1,0 +1,412 @@
+
+afro skater boy.png
+size: 1355,1601
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afro skater boy/arm l
+  rotate: false
+  xy: 890, 322
+  size: 98, 312
+  orig: 98, 312
+  offset: 0, 0
+  index: -1
+afro skater boy/arm r
+  rotate: true
+  xy: 990, 543
+  size: 91, 313
+  orig: 91, 313
+  offset: 0, 0
+  index: -1
+afro skater boy/body
+  rotate: false
+  xy: 669, 286
+  size: 219, 320
+  orig: 219, 320
+  offset: 0, 0
+  index: -1
+afro skater boy/ear
+  rotate: false
+  xy: 1212, 418
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+afro skater boy/eyeball-l
+  rotate: false
+  xy: 1279, 194
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+afro skater boy/eyeball-r
+  rotate: false
+  xy: 1089, 74
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+afro skater boy/eyebrow l
+  rotate: true
+  xy: 1318, 1395
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+afro skater boy/eyebrow r
+  rotate: true
+  xy: 737, 1250
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+afro skater boy/front hair
+  rotate: false
+  xy: 2, 1189
+  size: 733, 410
+  orig: 733, 410
+  offset: 0, 0
+  index: -1
+afro skater boy/hand-holding
+  rotate: false
+  xy: 816, 52
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+afro skater boy/head
+  rotate: false
+  xy: 2, 657
+  size: 533, 530
+  orig: 533, 530
+  offset: 0, 0
+  index: -1
+afro skater boy/hip
+  rotate: true
+  xy: 816, 101
+  size: 183, 117
+  orig: 183, 117
+  offset: 0, 0
+  index: -1
+afro skater boy/leg l
+  rotate: true
+  xy: 990, 421
+  size: 120, 220
+  orig: 120, 220
+  offset: 0, 0
+  index: -1
+afro skater boy/leg r
+  rotate: true
+  xy: 990, 301
+  size: 118, 211
+  orig: 118, 211
+  offset: 0, 0
+  index: -1
+afro skater boy/mouth a
+  rotate: false
+  xy: 856, 13
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+afro skater boy/mouth b
+  rotate: false
+  xy: 2, 3
+  size: 119, 71
+  orig: 119, 71
+  offset: 0, 0
+  index: -1
+afro skater boy/mouth c
+  rotate: false
+  xy: 1278, 123
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+afro skater boy/mouth d
+  rotate: true
+  xy: 760, 16
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+afro skater boy/mouth e
+  rotate: true
+  xy: 1089, 172
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+afro skater boy/mouth f
+  rotate: false
+  xy: 1187, 73
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+afro skater boy/mouth g
+  rotate: true
+  xy: 1318, 1540
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+afro skater boy/neck
+  rotate: true
+  xy: 1203, 315
+  size: 101, 145
+  orig: 101, 145
+  offset: 0, 0
+  index: -1
+afro skater boy/nose
+  rotate: false
+  xy: 1261, 29
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+afro skater boy/pupil l
+  rotate: false
+  xy: 737, 1199
+  size: 34, 49
+  orig: 56, 71
+  offset: 21, 6
+  index: -1
+afro skater boy/pupil r
+  rotate: false
+  xy: 1080, 2
+  size: 45, 70
+  orig: 117, 90
+  offset: 61, 2
+  index: -1
+afro skater boy/shoe l
+  rotate: false
+  xy: 935, 204
+  size: 152, 95
+  orig: 152, 95
+  offset: 0, 0
+  index: -1
+afro skater boy/shoe r
+  rotate: false
+  xy: 935, 107
+  size: 152, 95
+  orig: 152, 95
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/board-side
+  rotate: false
+  xy: 774, 636
+  size: 566, 59
+  orig: 566, 59
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-a
+  rotate: true
+  xy: 537, 608
+  size: 579, 235
+  orig: 579, 235
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-b
+  rotate: false
+  xy: 774, 697
+  size: 566, 149
+  orig: 566, 149
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-c
+  rotate: false
+  xy: 737, 1333
+  size: 579, 266
+  orig: 579, 266
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-d
+  rotate: true
+  xy: 270, 80
+  size: 575, 246
+  orig: 575, 246
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-e
+  rotate: true
+  xy: 2, 76
+  size: 579, 266
+  orig: 579, 266
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-f
+  rotate: true
+  xy: 518, 40
+  size: 566, 149
+  orig: 566, 149
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-g
+  rotate: false
+  xy: 774, 1096
+  size: 579, 235
+  orig: 579, 235
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-h
+  rotate: false
+  xy: 774, 848
+  size: 575, 246
+  orig: 575, 246
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/skateboard-horizontal-a
+  rotate: true
+  xy: 669, 60
+  size: 224, 145
+  orig: 224, 145
+  offset: 0, 0
+  index: -1
+afro skater boy/skateboard/wheel-side
+  rotate: false
+  xy: 1176, 198
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+afro skater boy/watch
+  rotate: false
+  xy: 1279, 274
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+vfx/smoke radial/smoke radial_00000
+  rotate: false
+  xy: 1318, 1348
+  size: 33, 45
+  orig: 167, 167
+  offset: 67, 53
+  index: -1
+vfx/smoke radial/smoke radial_00001
+  rotate: true
+  xy: 270, 2
+  size: 76, 68
+  orig: 167, 167
+  offset: 41, 47
+  index: -1
+vfx/smoke radial/smoke radial_00002
+  rotate: false
+  xy: 1187, 121
+  size: 89, 75
+  orig: 167, 167
+  offset: 36, 48
+  index: -1
+vfx/smoke radial/smoke radial_00003
+  rotate: false
+  xy: 388, 5
+  size: 94, 73
+  orig: 167, 167
+  offset: 37, 53
+  index: -1
+vfx/smoke radial/smoke radial_00004
+  rotate: false
+  xy: 123, 5
+  size: 92, 69
+  orig: 167, 167
+  offset: 36, 60
+  index: -1
+vfx/smoke radial/smoke radial_00005
+  rotate: false
+  xy: 1127, 9
+  size: 41, 63
+  orig: 167, 167
+  offset: 38, 64
+  index: -1
+vfx/smoke right/smoke right_00000
+  rotate: false
+  xy: 774, 619
+  size: 56, 15
+  orig: 167, 167
+  offset: 16, 80
+  index: -1
+vfx/smoke right/smoke right_00001
+  rotate: true
+  xy: 1318, 1457
+  size: 81, 27
+  orig: 167, 167
+  offset: 19, 76
+  index: -1
+vfx/smoke right/smoke right_00002
+  rotate: false
+  xy: 484, 2
+  size: 90, 36
+  orig: 167, 167
+  offset: 23, 76
+  index: -1
+vfx/smoke right/smoke right_00003
+  rotate: true
+  xy: 1305, 545
+  size: 89, 39
+  orig: 167, 167
+  offset: 27, 75
+  index: -1
+vfx/smoke right/smoke right_00004
+  rotate: false
+  xy: 669, 17
+  size: 89, 41
+  orig: 167, 167
+  offset: 30, 74
+  index: -1
+vfx/smoke right/smoke right_00005
+  rotate: false
+  xy: 935, 63
+  size: 89, 42
+  orig: 167, 167
+  offset: 32, 74
+  index: -1
+vfx/smoke right/smoke right_00006
+  rotate: false
+  xy: 1170, 27
+  size: 89, 44
+  orig: 167, 167
+  offset: 33, 73
+  index: -1
+vfx/smoke right/smoke right_00007
+  rotate: true
+  xy: 340, 2
+  size: 76, 46
+  orig: 167, 167
+  offset: 48, 71
+  index: -1
+vfx/smoke right/smoke right_00008
+  rotate: false
+  xy: 1026, 58
+  size: 52, 47
+  orig: 167, 167
+  offset: 74, 70
+  index: -1
+vfx/smoke right/smoke right_00009
+  rotate: false
+  xy: 217, 28
+  size: 51, 46
+  orig: 167, 167
+  offset: 76, 70
+  index: -1
+vfx/smoke right/smoke right_00010
+  rotate: true
+  xy: 811, 2
+  size: 48, 43
+  orig: 167, 167
+  offset: 80, 70
+  index: -1
+vfx/smoke right/smoke right_00011
+  rotate: false
+  xy: 576, 2
+  size: 46, 36
+  orig: 167, 167
+  offset: 82, 69
+  index: -1
+vfx/smoke right/smoke right_00012
+  rotate: false
+  xy: 518, 627
+  size: 16, 28
+  orig: 167, 167
+  offset: 112, 69
+  index: -1
